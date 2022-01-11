@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Diego Cardoso",
+        "cpf": "00000012312",
+        "email": "diegocardoso@hotmail.com",
+        "whatsapp": "34999999999",
+        "address": {
+            "postalcode": "38401494",
+            "street": "Rua Luiz Carlos Prestes",
+            "number": "50",
+            "details": "casa",
+            "district": "Pacaembu",
+            "city_state": "Uberlândia/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv":{
+        "name": "Antonio Carlos",
+        "cpf": "X00000123AA",
+        "email": "antonio@hotmail.com",
+        "whatsapp": "34999999999",
+        "address": {
+            "postalcode": "38401494",
+            "street": "Rua Luiz Carlos Prestes",
+            "number": "50",
+            "details": "casa",
+            "district": "Pacaembu",
+            "city_state": "Uberlândia/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Diego Cardoso",
+        "cpf": "00000012312",
+        "email": "diegocardoso.com.br",
+        "whatsapp": "34999999999",
+        "address": {
+            "postalcode": "38401494",
+            "street": "Rua Luiz Carlos Prestes",
+            "number": "50",
+            "details": "casa",
+            "district": "Pacaembu",
+            "city_state": "Uberlândia/MG"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
